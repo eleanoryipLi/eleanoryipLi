@@ -5,7 +5,7 @@
 
 ### I'm an Analyst, Foodie, Traveller, and Student for life
 - 🔭  I’m currently a **Master's in Analytics & Big Data student** @ **IE University** 
-- 💼  I was a Technology Consultant for two year and now trying to pivot my career to the data field
+- 💼  I was a Technology Consultant for two years and trying to pivot my career to the data field
 - 🧐  I'm actively looking for **full-time opportunities in Analytics or internships in Data Science**
 - 💬  Ask me about my work experience on three continents
 - 📫  eleanor.li@student.ie.edu
