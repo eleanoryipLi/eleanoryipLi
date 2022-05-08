@@ -1,6 +1,6 @@
 ### Hello World, I'm Eleanor  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="400" />
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="480" height="400" />
 
 
 ### I'm an Analyst, Foodie, Traveller, and Student for life
