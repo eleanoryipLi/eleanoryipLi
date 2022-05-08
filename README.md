@@ -1,6 +1,6 @@
 ### Hello World, I'm Eleanor  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="400" />
 
 
 ### I'm an Analyst, Foodie, Traveller, and Student for life
@@ -8,7 +8,7 @@
 - 💼  I was a Technology Consultant for two year and now trying to pivot my career to the data field
 - 🧐  I'm actively looking for **full-time opportunities in Analytics or internships in Data Science**
 - 💬  Ask me about my work experience on three continents
-- 📫  How to reach me **eleanor.li@student.ie.edu**
+- 📫  eleanor.li@student.ie.edu
 - 😄  Pronouns: She/Her
 - ⚡  Fun fact: I like to measure things in units of pad thai
 - ❤️  Things close to my heart: Gender equity, Asian pride, Tech for everyone, Empowering businesses, and Our planet
