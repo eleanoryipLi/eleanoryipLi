@@ -1,6 +1,6 @@
 ### Hello World, I'm Eleanor  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="400" />
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="390" />
 
 
 ### I'm an Analyst, Foodie, Traveller, and Student for life
@@ -11,7 +11,7 @@
 - 📫  eleanor.li@student.ie.edu
 - 😄  Pronouns: She/Her
 - ⚡  Fun fact: I like to measure things in units of pad thai
-- ❤️  Things close to my heart: Gender equity, Asian pride, Tech for everyone, Empowering businesses, and Our planet
+- ❤️  Things close to my heart: Asian pride, Tech for everyone, Empowering businesses, and Our planet
 
 ### Talk with me, I am kinda awesome:
 
